@@ -4,6 +4,8 @@ a simple stack structure for react hooks
 
 [live demo](https://nariakiiwatani.github.io/react-use-stack-ref)
 
+[npm packege](https://www.npmjs.com/package/react-use-stack-ref)
+
 ```
 
 import React, { useState, useCallback, ChangeEvent } from 'react'
