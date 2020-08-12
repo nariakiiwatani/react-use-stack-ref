@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "lib": [
+      "es2019",
+      "dom"
+    ],
+    "allowJs": true,
+    "checkJs": false,
+    "sourceMap": true,
+    "inlineSources": true,
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  }
+}
